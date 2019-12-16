@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "21625152915",
+    "firebase_url": "https://associate-android-dev.firebaseio.com",
+    "project_id": "associate-android-dev",
+    "storage_bucket": "associate-android-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21625152915:android:0bbaf5595857eccde2b466",
+        "android_client_info": {
+          "package_name": "com.example.android.eggtimernotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21625152915-l9ucvf9ipihii4gd0s1qtfn5pkj12bfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.eggtimernotifications",
+            "certificate_hash": "7777a0733c6bddd847b044cfe45ddf2d11efd68e"
+          }
+        },
+        {
+          "client_id": "21625152915-outmvqu7uuv5ss7qtsorh25endj8003h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2G6oDpK0PGcrq9RWN7RTpks3UCBpaYvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21625152915-outmvqu7uuv5ss7qtsorh25endj8003h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
